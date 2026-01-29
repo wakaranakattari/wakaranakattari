@@ -10,12 +10,6 @@ Performance • Modern Web • Deep UI/UX • Browser as a Runtime
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wakaranakattari/wakaranakattari/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 🧠 About Me
 
 I focus on building **modern, high-performance, and actually useful** web applications.
