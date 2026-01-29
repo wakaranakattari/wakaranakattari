@@ -11,11 +11,9 @@ Performance • Modern Web • Deep UI/UX • Browser as a Runtime
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wakaranakattari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wakaranakattari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakaranakattari&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=wakaranakattari&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakaranakattari&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
