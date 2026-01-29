@@ -11,9 +11,7 @@ Performance • Modern Web • Deep UI/UX • Browser as a Runtime
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wakaranakattari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakaranakattari&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://raw.githubusercontent.com/wakaranakattari/wakaranakattari/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
