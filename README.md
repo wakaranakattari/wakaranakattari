@@ -32,7 +32,7 @@ I’m especially drawn to **graphics in the browser**, low-level web capabilitie
 
 #### 🧩 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,lua,wasm" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,ruby,rust,wasm" />
 </p>
 
 #### 🧱 Frameworks & Web
