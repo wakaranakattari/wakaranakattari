@@ -1,4 +1,5 @@
 <div align="center">
+  
   [![Group-3.png](https://i.postimg.cc/T1Q2krHm/Group-3.png)](https://postimg.cc/kR6dGtCX)
 
 # Hi, I'm Nikita!
