@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://i.ibb.co/qFWqw3f1/Group-3.png" alt="Group-3" width="650" height="250">
+  <img src="https://i.ibb.co/qFWqw3f1/Group-3.png" alt="Group-3" width="700" height="250">
 
 # Hi, I'm Nikita!
 ## Software Engineer
