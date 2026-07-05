@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Group-3.png](https://i.postimg.cc/T1Q2krHm/Group-3.png)](https://postimg.cc/kR6dGtCX)
+  <img src="https://i.ibb.co/qFWqw3f1/Group-3.png" alt="Group-3" width="450" height="250">
 
 # Hi, I'm Nikita!
 ## Software Engineer
