@@ -19,7 +19,7 @@
   </tr>
   <tr valign="top">
     <td valign="top">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=fsharp,ocaml,rust,cs,clojure&theme=dark">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=fs,ocaml,rust,cs,clojure&theme=dark">
     </td>
     <td valign="top">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,js,dotnet&theme=dark">
