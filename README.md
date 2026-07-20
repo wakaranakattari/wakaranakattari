@@ -14,19 +14,31 @@
 <table>
   <tr>
     <th>main</th>
+    <th>second</th>
     <th>frontend</th>
     <th>tools & db</th>
   </tr>
   <tr valign="top">
     <td valign="top">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=ocaml,rust,cs,clojure&theme=dark">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,ocaml,elixir,rust" />
+      </a>
     </td>
     <td valign="top">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,js,dotnet&theme=dark">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,clojure,perl" />
+      </a>
     </td>
     <td valign="top">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,docker,nginx,linux&theme=dark"><br/>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,redis&theme=dark">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,vue,js,clojure,sass" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=neovim,docker,nginx,linux" />
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+      </a>
     </td>
   </tr>
 </table>
