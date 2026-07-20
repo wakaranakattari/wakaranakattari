@@ -13,30 +13,33 @@
 
 <table>
   <tr>
-    <th>main</th>
-    <th>second</th>
-    <th>frontend</th>
-    <th>tools & db</th>
+    <th align="center">main</th>
+    <th align="center">second</th>
+    <th align="center">frontend</th>
+    <th align="center">tools & db</th>
   </tr>
-  <tr valign="top">
-    <td valign="top">
+  <tr valign="middle">
+    <td valign="middle" align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cs,ocaml,elixir,rust" />
       </a>
     </td>
-    <td valign="top">
+    <td valign="middle" align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,clojure,perl" />
       </a>
     </td>
-    <td valign="top">
+    <td valign="middle" align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,vue,js,clojure,sass" />
       </a>
     </td>
-    <td valign="top">
+    <td valign="middle" align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=neovim,docker,nginx,linux" />
+      </a>
+      <br />
+      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
       </a>
     </td>
