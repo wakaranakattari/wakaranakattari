@@ -21,17 +21,17 @@
   <tr valign="middle">
     <td valign="middle" align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,ocaml,elixir,rust" />
+        <img src="https://skillicons.dev/icons?i=go,elixir,rust" />
       </a>
     </td>
     <td valign="middle" align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,clojure,perl" />
+        <img src="https://skillicons.dev/icons?i=ts,clojure,perl" />
       </a>
     </td>
     <td valign="middle" align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,vue,js,clojure,sass" />
+        <img src="https://skillicons.dev/icons?i=react,ts,sass" />
       </a>
     </td>
     <td valign="middle" align="center">
