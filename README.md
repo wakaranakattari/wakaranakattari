@@ -47,7 +47,7 @@
     </td>
     <td valign="middle" align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,next,elysia,bun" />
+        <img src="https://skillicons.dev/icons?i=solidjs,next,elysia,bun" />
       </a>
       <br />
       <a href="https://skillicons.dev">
