@@ -66,13 +66,4 @@
   </tr>
 </table>
 
-
----
-
-## stats
-
-![](https://streak-stats.demolab.com?user=wakaranakattari&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=wakaranakattari&theme=tokyo-night&hide_border=true)
-
 </div>
