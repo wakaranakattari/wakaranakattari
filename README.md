@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**wakaranakattari/wakaranakattari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nikita
 
-Here are some ideas to get you started:
+**Backend Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="40" src="https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+<p>
+Building backend systems with <b>Rust</b> and <b>Go</b>.<br>
+Exploring <b>R&D</b>, functional programming, and programming language design with <b>Haskell</b>.
+</p>
+
+<code>Backend Engineering</code>
+<code>Systems Programming</code>
+<code>Functional Programming</code>
+<code>R&D</code>
+
+<br>
+
+### Current Focus
+
+Backend architecture, systems programming, programming languages,
+developer tooling, and deeper exploration of software engineering.
+
+</div>
